@@ -1,0 +1,45 @@
+{
+  "projects": {
+    "0g": {
+      "status": "积极跟进",
+      "lastContact": "",
+      "comms": []
+    },
+    "meet48": {
+      "status": "积极跟进",
+      "lastContact": "",
+      "comms": []
+    },
+    "usdai": {
+      "status": "待回复",
+      "lastContact": "",
+      "comms": []
+    },
+    "pharos": {
+      "status": "待回复",
+      "lastContact": "",
+      "comms": []
+    },
+    "predict": {
+      "status": "待回复",
+      "lastContact": "",
+      "comms": []
+    },
+    "river": {
+      "status": "积极跟进",
+      "lastContact": "",
+      "comms": []
+    },
+    "rax": {
+      "status": "待回复",
+      "lastContact": "",
+      "comms": []
+    },
+    "axis": {
+      "status": "积极跟进",
+      "lastContact": "",
+      "comms": []
+    }
+  },
+  "lastUpdated": "2026-03-30"
+}
